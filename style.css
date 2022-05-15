@@ -1,0 +1,22 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.error{
+    margin-left: 160px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.marginleft{
+    margin-left: 23px;
+    margin-bottom: 20px;
+}
+
+.inputnumber{
+    width: 80px;
+}
+li{
+    line-height: 35px;
+}
